@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-   <a href="https://arpit73881.github.io/Focus-on-today/" target="_blank"><img src="https://i.ibb.co/QYQk1x6/portfolio-5.png" alt="Main-Cover" border="0"></a>
+   <a href="https://arpit73881.github.io/Focus-on-today/" target="_blank"><img src="https://github.com/user-attachments/assets/f8e65aff-e285-4eaa-ae32-b7f9c15424e7" alt="Main-Cover" border="0"></a>
   <br />
 
 # [Focus on Today](https://arpit73881.github.io/Focus-on-today/)
